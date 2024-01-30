@@ -19,9 +19,6 @@ variables:
 pool:
   name: harish
 
-jobs:
-- job: Build
-  runs-on: self-hosted
 
 
 stages:
